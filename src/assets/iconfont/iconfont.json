@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8574987",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21394228",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "f4cf",
+      "unicode_decimal": 62671
+    },
+    {
+      "icon_id": "21394235",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "f4d0",
+      "unicode_decimal": 62672
+    },
+    {
+      "icon_id": "21394248",
+      "name": "打卡",
+      "font_class": "daka",
+      "unicode": "f4d3",
+      "unicode_decimal": 62675
+    },
+    {
+      "icon_id": "21394296",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "f4d4",
+      "unicode_decimal": 62676
+    },
+    {
+      "icon_id": "21394304",
+      "name": "打印",
+      "font_class": "dayin",
+      "unicode": "f4d5",
+      "unicode_decimal": 62677
+    },
+    {
+      "icon_id": "21394309",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "f4d6",
+      "unicode_decimal": 62678
+    },
+    {
+      "icon_id": "21394312",
+      "name": "待处理",
+      "font_class": "daichuli",
+      "unicode": "f4d7",
+      "unicode_decimal": 62679
+    },
+    {
+      "icon_id": "21394313",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "f4d8",
+      "unicode_decimal": 62680
+    },
+    {
+      "icon_id": "21394318",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "f4d9",
+      "unicode_decimal": 62681
+    },
+    {
+      "icon_id": "21394326",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "f4db",
+      "unicode_decimal": 62683
+    },
+    {
+      "icon_id": "21394329",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "f4dc",
+      "unicode_decimal": 62684
+    },
+    {
+      "icon_id": "21394331",
+      "name": "订单编辑",
+      "font_class": "dingdanbianji",
+      "unicode": "f4dd",
+      "unicode_decimal": 62685
+    },
+    {
+      "icon_id": "21394346",
+      "name": "订单查询",
+      "font_class": "dingdanchaxun",
+      "unicode": "f4de",
+      "unicode_decimal": 62686
+    },
+    {
+      "icon_id": "21394358",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "f4df",
+      "unicode_decimal": 62687
+    },
+    {
+      "icon_id": "21394360",
+      "name": "房源",
+      "font_class": "fangyuan",
+      "unicode": "f4e0",
+      "unicode_decimal": 62688
+    },
+    {
+      "icon_id": "21394380",
+      "name": "复制",
+      "font_class": "fuzhi",
+      "unicode": "f4e1",
+      "unicode_decimal": 62689
+    },
+    {
+      "icon_id": "21394384",
+      "name": "概率",
+      "font_class": "gaishuai",
+      "unicode": "f4e2",
+      "unicode_decimal": 62690
+    },
+    {
+      "icon_id": "21394385",
+      "name": "个人设置",
+      "font_class": "gerenshezhi",
+      "unicode": "f4e3",
+      "unicode_decimal": 62691
+    }
+  ]
+}

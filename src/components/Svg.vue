@@ -1,0 +1,18 @@
+<template>
+<svg :style="{fill:color?color:''}">
+        <use :xlink:href="'#icon-'+name"  rel="external nofollow" />
+    </svg>
+</template>
+<script lang='ts'>
+import { defineComponent, ref,getCurrentInstance} from 'vue';
+export default defineComponent({
+name: 'svg',
+ props:{
+     name:String, //图标名称
+     color:{ // 图标颜色
+         type:String,
+         deafult:null
+     }
+ }
+});
+</script>
